@@ -22,7 +22,7 @@ Welcome to the **UserAuth Servlet Project**, a web-based authentication system b
 
 ## 📂 Project Structure
 
-`
+```
 UserAuthServlet/
 │── src/
 │   ├── com.siddique.servlet (Servlets for Login, Register, Logout)
@@ -32,7 +32,7 @@ UserAuthServlet/
 │   ├── WEB-INF/web.xml (Deployment Descriptor)
 │── database.sql (DB setup script)
 │── README.md
-`
+```
 
 ## 🏗️ Setup Instructions
 
